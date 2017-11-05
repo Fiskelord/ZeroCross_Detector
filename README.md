@@ -1,1 +1,1 @@
-# ZeroTrigger_Detector
+# ZeroCross_Detector
