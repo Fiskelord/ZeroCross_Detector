@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F87K22 -DL -O11111114 -fo64 -N"C:\Source\Projects\ZeroCross_Detector\simulation\software\ZeroCross_Detector_Simulation.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Source\Projects\ZeroCross_Detector\simulation\software\" "ZeroCross_Detector_Simulation.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 3841 [bytes], Available ROM: 131072 [bytes]	 
+diagnostics: 0	122	Compilation Started	ZeroCross_Detector_Simulation.c
+diagnostics: 13	123	Compiled Successfully	ZeroCross_Detector_Simulation.c
+diagnostics: 0	127	All files Compiled in 31 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 3841 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 3841 (99%)
+hint: 0	1144	Used ROM (bytes): 92 (1%)  Free ROM (bytes): 130980 (99%)	Used ROM (bytes): 92 (1%)  Free ROM (bytes): 130980 (99%)
+diagnostics: 0	125	Project Linked Successfully	ZeroCross_Detector_Simulation.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'ZeroCross_Detector_Simulation.mcppi' completed: 63 ms	 
+diagnostics: 0	103	Finished successfully: 05 nov 2017, 12:22:38	ZeroCross_Detector_Simulation.mcppi

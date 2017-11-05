@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\software\ZeroCross_Detector.mcppi
+Project1=ZeroCross_Detector_Simulation.mcppi
+[ActiveProject]
+Index=1
