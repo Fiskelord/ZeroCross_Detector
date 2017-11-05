@@ -1,4 +1,4 @@
-# ZeroCross_Detector
+# ZeroCross Detector
 ## Description
 This is a utility, needed by the place i work at, to detect when a sinewave is crossing the 0V line, then wait for it to get to the highest point and pull a relay.
 
